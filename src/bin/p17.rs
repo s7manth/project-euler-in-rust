@@ -1,3 +1,5 @@
+// Problem 17: Number Letter Counts
+
 use std::collections::HashMap;
 
 type NumReadableMap<'a> = HashMap::<usize, &'a str>;
